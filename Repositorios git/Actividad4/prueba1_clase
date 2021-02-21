@@ -1,4 +1,4 @@
 public class prueba1{
-	System.out.println("Hola esto es una prueba1");
+	System.out.println("Hola esto es una prueba1 y de la derecha");
 	
 }
